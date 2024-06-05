@@ -1,0 +1,30 @@
+
+
+             dashboard---angular project--workflow
+--------------------------------------------------------------------------
+
+1.create a project ng new admin --no--standalone
+2.run project----ng s
+3.install third party libraries
+
+         --angular material
+
+         --choose a prebuild theme
+         --typography
+         --set up browser animation
+ 4.to use any component from angular material
+
+        ---copy the api from particular component and paste it on app module.ts        
+
+ 5.generate component ng g c component-name
+
+    --header 
+    --footer
+    --sidebar
+    --dashboard
+
+         --card
+         --area-chart
+         --table
+         --pie-chart
+         
